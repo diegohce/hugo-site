@@ -1,6 +1,6 @@
 baseURL = "https://loving-tereshkova-c0612b.netlify.com"
 languageCode = "en-us"
-title = "My New Hugo Site"
+title = "A journey into software architecture"
 theme = "ananke"
 
 MetaDataFormat = "yaml"
@@ -9,6 +9,8 @@ SectionPagesMenu = "main"
 Paginate = 3 # this is set low for demonstrating with dummy content. Set to a higher number
 googleAnalytics = ""
 enableRobotsTXT = true
+
+disqusShortname = "diegohce"
 
 [sitemap]
   changefreq = "monthly"
@@ -19,10 +21,10 @@ enableRobotsTXT = true
   favicon = ""
   description = "The last theme you'll ever need. Maybe."
   facebook = ""
-  twitter = "https://twitter.com/GoHugoIO"
-  instagram = ""
+  twitter = "https://twitter.com/diegohc"
+  instagram = "https://instagram.com/nerdencarpa"
   youtube = ""
-  github = ""
+  github = "https://github.com/diegohce"
   gitlab = ""
   linkedin = ""
   mastodon = ""

@@ -10,4 +10,4 @@ When I first setup this blog in [Netlify](http://www.netlify.com) the self assig
 
 It seems that [Valentina Vladimirovna Tereshkova](https://en.wikipedia.org/wiki/Valentina_Tereshkova), from Russia, was the first cosmonaut woman to flight into space. This was 1963!
 
-I think that, for a technology related blog, this is a very proper name, at last while hosted in this subdomain :-)
+I think that, for a technology related blog, this is a very proper name, at least while hosted in this subdomain :-)

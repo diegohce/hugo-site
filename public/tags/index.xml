@@ -1,14 +1,42 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Tags on My New Hugo Site</title>
-    <link>http://example.org/tags/</link>
-    <description>Recent content in Tags on My New Hugo Site</description>
+    <title>Tags on A journey into software architecture</title>
+    <link>https://loving-tereshkova.netlify.com/tags/</link>
+    <description>Recent content in Tags on A journey into software architecture</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
+    <lastBuildDate>Sat, 23 Mar 2019 20:52:09 -0300</lastBuildDate>
     
-	<atom:link href="http://example.org/tags/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://loving-tereshkova.netlify.com/tags/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Off Topic</title>
+      <link>https://loving-tereshkova.netlify.com/tags/off-topic/</link>
+      <pubDate>Sat, 23 Mar 2019 20:52:09 -0300</pubDate>
+      
+      <guid>https://loving-tereshkova.netlify.com/tags/off-topic/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Programming</title>
+      <link>https://loving-tereshkova.netlify.com/tags/programming/</link>
+      <pubDate>Sun, 24 Mar 2019 18:22:47 -0300</pubDate>
+      
+      <guid>https://loving-tereshkova.netlify.com/tags/programming/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Software Arch</title>
+      <link>https://loving-tereshkova.netlify.com/tags/software-arch/</link>
+      <pubDate>Sun, 24 Mar 2019 18:22:47 -0300</pubDate>
+      
+      <guid>https://loving-tereshkova.netlify.com/tags/software-arch/</guid>
+      <description></description>
+    </item>
     
   </channel>
 </rss>

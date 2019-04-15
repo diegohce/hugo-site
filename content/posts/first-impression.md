@@ -25,5 +25,5 @@ But, this is 2019, we're professionals (yes, professionals wrote that code), so 
 
 ## Conclussion
 
-At the "exceptions talk", some dev faces were priceless! :-)
+People is overrated :-)
 
